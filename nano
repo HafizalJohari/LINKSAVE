@@ -1,0 +1,3 @@
+export SECRET_KEY='b39a97d5a0129bc7b302015448f500c336bbc7a70866d418'
+export DATABASE_URL='sqlite:///app.db'
+
